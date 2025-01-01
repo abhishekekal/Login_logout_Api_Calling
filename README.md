@@ -37,10 +37,20 @@ This project provides a basic authentication API using Spring Boot. It includes 
 `POST /api/auth/register`
 
 **Request Body (JSON):**
-```json
-{
+
+```{
   "username": "your_username",
   "password": "your_password",
  
 }
+```
+
+---
+### Author
+**Abhishek Hanmant Ekal**  
+GitHub: [abhishekekal](https://github.com/abhishekekal)  
+LinkedIn: [abhishek-ekal](https://www.linkedin.com/in/abhishek-ekal-57642425b/)
+
+
+
 
