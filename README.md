@@ -51,6 +51,3 @@ This project provides a basic authentication API using Spring Boot. It includes 
 GitHub: [abhishekekal](https://github.com/abhishekekal)  
 LinkedIn: [abhishek-ekal](https://www.linkedin.com/in/abhishek-ekal-57642425b/)
 
-
-
-
